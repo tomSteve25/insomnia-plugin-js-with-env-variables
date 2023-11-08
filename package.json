@@ -1,0 +1,22 @@
+{
+  "name": "insomnia-plugin-demo-example-js-with-env-variables",
+  "version": "0.0.1",
+  "private": false,
+  "insomnia": {
+    "name": "demo-example-js-with-env-variables",
+    "description": "Parse response body using JavaScript and environment variables"
+  },
+  "main": "main.js",
+  "publisher": {
+    "name": "Thomas Stevens"
+  },
+  "homepage": "https://github.com/tomSteve25/insomnia-plugin-demo-example-js-with-env-variables",
+  "unlisted": false,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tomSteve25/insomnia-plugin-demo-example-js-with-env-variables"
+  },
+  "images": {
+    "icon": "icon.svg"
+  }
+}
