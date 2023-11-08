@@ -1,9 +1,9 @@
 {
-  "name": "insomnia-plugin-demo-example-js-with-env-variables",
+  "name": "insomnia-plugin-js-with-env-variables",
   "version": "0.0.1",
   "private": false,
   "insomnia": {
-    "name": "demo-example-js-with-env-variables",
+    "name": "insomnia-plugin-js-with-env-variables",
     "description": "Parse response body using JavaScript and environment variables"
   },
   "main": "main.js",
